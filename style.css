@@ -16,8 +16,8 @@ body::selection {
   display: flex;
   height: 6vh;
   background-color: rgba(0, 0, 0, 0.178);
-  backdrop-filter: blur(28px);
-  -webkit-backdrop-filter: blur(28px);
+  backdrop-filter: blur(29px);
+  -webkit-backdrop-filter: blur(29px);
   position: fixed;
   top: 0;
   left: 0;
@@ -94,8 +94,8 @@ body::selection {
 }
 .demo {
   background-color: black;
-  backdrop-filter: blur(18px);
-  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(19px);
+  -webkit-backdrop-filter: blur(19px);
   border: 0.5px solid rgb(92, 92, 92);
   width: 8.5vmax;
   height: 3.7vh;
