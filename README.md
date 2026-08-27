@@ -1,4 +1,4 @@
-# X1
+# x1
 
 A landing page design inspired by XAI website, built entirely with HTML and CSS.
 
