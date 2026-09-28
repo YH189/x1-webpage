@@ -4,7 +4,7 @@ A landing page design inspired by XAI website, built entirely with HTML and CSS.
 
 ## About
 
-This project was built as a personal practice exercise to explore modern web design patterns — dark theme aesthetics, bento grid layouts, and subtle motion — without relying on any frameworks or JavaScript libraries.
+This project was built as a practice exercise to explore modern web design patterns — dark theme aesthetics, bento grid layouts, and subtle motion — without relying on any frameworks or JavaScript libraries.
 
 ## Live Demo
 
